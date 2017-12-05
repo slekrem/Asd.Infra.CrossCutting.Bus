@@ -1,0 +1,1 @@
+.\nuget.exe pack .\src\Asd.Infra.CrossCutting.Bus\Asd.Infra.CrossCutting.Bus.csproj -properties Configuration=Release
